@@ -164,7 +164,7 @@ def consulta_fecha():
 
 # Crear la ventana principal
 ventana = tk.Tk()
-ventana.title("Informes servicio")  # Título de la ventana
+ventana.title("Programacion operadores")  # Título de la ventana
 ventana.geometry("1000x700")  # Tamaño de la ventana
 ventana.config(bg="white")  # Fondo blanco
 
